@@ -1,0 +1,216 @@
+[
+  {"text":"High School Round 15A Page 1","label":"META"},
+  {"text":"ROUND 15A","label":"ROUND"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"1) CHEMISTRY Multiple Choice Which ionic salt has the LARGEST lattice dissociation energy? W) Sodium chloride X) Magnesium oxide Y) Magnesium chloride Z) Lithium fluoride","label":"TOSSUP_TEXT"},
+  {"text":"X) MAGNESIUM OXIDE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"1) CHEMISTRY Short Answer If 30 mL of 0.10 M H2SO4 is titrated with 0.03 M NaOH, how many mL NaOH required?","label":"BONUS_TEXT"},
+  {"text":"200","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"2) MATH Short Answer In group of 16 students, 12 take science and 8 take math, 1 takes neither. How many take both?","label":"TOSSUP_TEXT"},
+  {"text":"5","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"2) MATH Short Answer If a*b = ab/(a+b), find 4*(4*4)","label":"BONUS_TEXT"},
+  {"text":"4/3","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 2","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"3) PHYSICS Multiple Choice EM wave in glass n=1.1: speed approx? W) C X)0.1C Y)0.9C Z)1.1C","label":"TOSSUP_TEXT"},
+  {"text":"Y) 0.9C","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"3) PHYSICS Multiple Choice Heater generating 1000 J/s at 10 V: resistance? W)0.1 X)1 Y)10 Z)100","label":"BONUS_TEXT"},
+  {"text":"W) 0.1","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"4) EARTH AND SPACE Short Answer Galaxy with recessional velocity 150 km/s: distance (Mpc) to 1 sig fig?","label":"TOSSUP_TEXT"},
+  {"text":"2","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"4) EARTH AND SPACE Multiple Choice Max change in thickness of clay particle hydration? W)<20% X)~50% Y)~70% Z)~100%","label":"BONUS_TEXT"},
+  {"text":"Z) NEARLY 100%","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 3","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"5) CHEMISTRY Multiple Choice Which statement does NOT describe an octahedral molecule? W) 2-,3-,4-fold rotation axes X) Two types of improper rotations Y) Exactly eight mirror planes Z) Inversion center","label":"TOSSUP_TEXT"},
+  {"text":"Y) EXACTLY EIGHT DIFFERENT MIRROR PLANES CAN BE FOUND","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"5) CHEMISTRY Short Answer Airtight chamber: 4 moles N2 and unknown O2; partial pressure O2 150 torr, total 350 torr. Moles of O2?","label":"BONUS_TEXT"},
+  {"text":"3","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"6) BIOLOGY Multiple Choice Example of commensalism? W) Hummingbird drinking from flower X) Tapeworm Y) Clown fish & anemone Z) Egrets foraging among cattle fields","label":"TOSSUP_TEXT"},
+  {"text":"Z) EGRETS FORAGING AMONG CATTLE FIELDS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"6) BIOLOGY Multiple Choice Hedgehog not responsive in July best explanation? W) Hibernating X) Torpor Y) Estivating Z) Suspended animation","label":"BONUS_TEXT"},
+  {"text":"Y) IT IS ESTIVATING","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 4","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"7) ENERGY Multiple Choice Which of the following is NOT an oil product? W) Gasoline X) Syngas Y) Kerosene Z) Asphalt","label":"TOSSUP_TEXT"},
+  {"text":"X) SYNGAS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"7) ENERGY Short Answer Laptop battery 4V, resistance 10Ω, charges to 100% in 8 hours: initial capacity (Ah)?","label":"BONUS_TEXT"},
+  {"text":"3.2","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"8) EARTH AND SPACE Multiple Choice Which Cascade volcano is a shield volcano? W) Mt Rainier X) Mt St Helens Y) Newberry Z) Glacier Peak","label":"TOSSUP_TEXT"},
+  {"text":"Y) NEWBERRY VOLCANO","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"8) EARTH AND SPACE Short Answer Name of graben with highest recorded temperature on Earth?","label":"BONUS_TEXT"},
+  {"text":"DEATH VALLEY","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 5","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"9) MATH Multiple Choice Expression question (omitted here)","label":"TOSSUP_TEXT"},
+  {"text":"Z) 1","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"9) MATH Short Answer Evaluate definite integral from -3 to 0 sqrt(9-x^2) dx","label":"BONUS_TEXT"},
+  {"text":"(see original)","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"10) BIOLOGY Multiple Choice Variation example: increased fur thickness with latitude is? W) Directional selection X) Genetic drift Y) Balancing selection Z) Polymorphism","label":"TOSSUP_TEXT"},
+  {"text":"W) DIRECTIONAL SELECTION","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"10) BIOLOGY Multiple Choice Compared to seawater-acclimated fish, freshwater-acclimated fish expected to have? W) Higher glomerular filtration rates X) Increased drinking rates Y) Decreased water gain Z) Increased ion loss","label":"BONUS_TEXT"},
+  {"text":"W) HIGHER GLOMERULAR FILTRATION RATES","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 6","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"11) CHEMISTRY Short Answer How many sigma and pi bonds in ethyne?","label":"TOSSUP_TEXT"},
+  {"text":"3 SIGMA AND 2 PI","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"11) CHEMISTRY Multiple Choice Which fact allows one to infer H-A stronger acid than acetic acid? W) H-A protonates water X) Acetic protonates H-A Y) H-A protonates acetate Z) Acetic protonates A-","label":"BONUS_TEXT"},
+  {"text":"Y) H-A HAS THE ABILITY TO PROTONATE ACETATE IN HIGH YIELD","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"12) PHYSICS Short Answer Reciprocal of sqrt(mu0 * epsilon) represents?","label":"TOSSUP_TEXT"},
+  {"text":"THE SPEED OF LIGHT","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"12) PHYSICS Multiple Choice Compressibility depends on? W) Young’s modulus X) Bulk modulus Y) Volume stress Z) Tensile stress","label":"BONUS_TEXT"},
+  {"text":"X) BULK MODULUS","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 7","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"13) EARTH AND SPACE Short Answer Competing model losing to Big Bang due to CMB discovery?","label":"TOSSUP_TEXT"},
+  {"text":"STEADY-STATE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"13) EARTH AND SPACE Multiple Choice If atmosphere had fewer condensation nuclei, clouds would? W) form less readily X) form more readily Y) unaffected Z) precipitation affected","label":"BONUS_TEXT"},
+  {"text":"W) CLOUDS WOULD FORM LESS READILY","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 8","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"14) BIOLOGY Multiple Choice Electroporation enables? W) Polar molecules to pass X) Glucose to escape Y) Polar molecules intercalate Z) Non-polar molecules to escape","label":"TOSSUP_TEXT"},
+  {"text":"W) POLAR MOLECULES TO PASS THROUGH THE PLASMA MEMBRANE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"14) BIOLOGY Multiple Choice Least similar ATP production between normal and brown adipose tissue? W) Glycolysis X) Glycogenolysis Y) Electron transport chain Z) Citric acid cycle","label":"BONUS_TEXT"},
+  {"text":"Y) ELECTRON TRANSPORT CHAIN","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 9","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"15) CHEMISTRY Multiple Choice Which pair forms a buffer at 1 M? W) Sodium formate & formic acid X) Sodium nitrate & ammonia Y) NaOH & HNO3 Z) NaCl & HCl","label":"TOSSUP_TEXT"},
+  {"text":"W) SODIUM FORMATE AND FORMIC ACID","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"15) CHEMISTRY Short Answer Oxidation numbers: dimethyl ether, methylamine, formaldehyde","label":"BONUS_TEXT"},
+  {"text":"-2; -2; 0","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 10","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"16) ENERGY Short Answer Device to measure heat at constant volume?","label":"TOSSUP_TEXT"},
+  {"text":"BOMB CALORIMETER","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"16) ENERGY Multiple Choice GWP factor for N2O approx? W)3 X)30 Y)100 Z)300","label":"BONUS_TEXT"},
+  {"text":"Z) 300","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 11","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"17) MATH Short Answer Base-12 numeral ET in base 10?","label":"TOSSUP_TEXT"},
+  {"text":"142","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"17) MATH Short Answer Number of axis-aligned squares in 10x10 grid?","label":"BONUS_TEXT"},
+  {"text":"385","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 12","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"18) BIOLOGY Multiple Choice Term for center of field of vision? W) Optic nerve X) Fovea Y) Pupil Z) Blind spot","label":"TOSSUP_TEXT"},
+  {"text":"X) FOVEA","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"18) BIOLOGY Multiple Choice Injury to CN III results in inability to? W) Smell X) Chew Y) Move eyes to left Z) Feel pain in eye","label":"BONUS_TEXT"},
+  {"text":"Y) MOVE EYES TO THE LEFT","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 13","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"19) PHYSICS Multiple Choice Capacitance required to store 10 J at 1 V? W)2 X)20 Y)200 Z)2000","label":"TOSSUP_TEXT"},
+  {"text":"X) 20","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"19) PHYSICS Short Answer Necessary condition for laser population?","label":"BONUS_TEXT"},
+  {"text":"POPULATION INVERSION","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"20) ENERGY Multiple Choice Odorant additive to natural gas? W) H2S X) tert-Butylthiol Y) Acetylsalicylate Z) Methylamine","label":"TOSSUP_TEXT"},
+  {"text":"X) TERT-BUTYLTHIOL","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"20) ENERGY Short Answer Air changes per hour for 10x10x20 ft apt with leakage 10 cfm?","label":"BONUS_TEXT"},
+  {"text":"0.3","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 14","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"21) MATH Short Answer Kedar receives 10 spam emails on average: distribution?","label":"TOSSUP_TEXT"},
+  {"text":"POISSON DISTRIBUTION","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"21) MATH Multiple Choice Tangent at (1,e) area of triangle?","label":"BONUS_TEXT"},
+  {"text":"W) 2e","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"22) CHEMISTRY Multiple Choice In Haber process, which change increases ammonia yield? W) Adding catalyst X) Increasing temperature Y) Increasing pressure Z) Increasing volume","label":"TOSSUP_TEXT"},
+  {"text":"Y) INCREASING THE PRESSURE OF THE REACTION MIXTURE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"22) CHEMISTRY Short Answer Nitrogen monoxide reacts with H2 to form H2O & N2; given equilibrium mixture, Kc =?","label":"BONUS_TEXT"},
+  {"text":"700","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 15A Page 15","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"23) BIOLOGY Short Answer Pluripotent cells develop from what connective tissue?","label":"TOSSUP_TEXT"},
+  {"text":"MESENCHYME","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"23) BIOLOGY Multiple Choice 1937 elixir poisoning: why is ethanol effective? W) Allosteric inhibitor X) More competitive substrate Y) Diethylene glycol affinity Z) Ethanol cleavage","label":"BONUS_TEXT"},
+  {"text":"X) ETHANOL IS A MORE COMPETITIVE SUBSTRATE FOR ALCOHOL DEHYDROGENASE THAN DIETHYLENE GLYCOL","label":"BONUS_ANSWER"}
+]

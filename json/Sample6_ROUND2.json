@@ -1,0 +1,230 @@
+[
+  {"text":"Round 2 Page 1","label":"META"},
+  {"text":"ROUND 2","label":"ROUND"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"1) EARTH AND SPACE Short Answer What is the name of the sedimentary rock formed by compaction and cementation of rounded, pebble-size particles?","label":"TOSSUP_TEXT"},
+  {"text":"CONGLOMERATE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"1) EARTH AND SPACE Multiple Choice Which of the following is NOT a characteristic of a good index fossil? W) Easy to identify X) Geographically widespread Y) Slow evolution Z) Easy to preserve","label":"BONUS_TEXT"},
+  {"text":"Y) SLOW EVOLUTION","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"2) BIOLOGY Multiple Choice Which of the following is NOT an evolutionary adaptation of plants to arid climates? W) Leaves have a waxy coating X) Carbon incorporation and the Calvin cycle are separated Y) Stomata are closed at night Z) Leaves are absent","label":"TOSSUP_TEXT"},
+  {"text":"Y) STOMATA ARE CLOSED AT NIGHT","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"2) BIOLOGY Multiple Choice Which mammal species is usually considered diurnal? W) Eastern fox squirrel X) Black-footed ferret Y) Virginia opossum Z) Raccoon","label":"BONUS_TEXT"},
+  {"text":"W) EASTERN FOX SQUIRREL","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 2","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"3) CHEMISTRY Short Answer What is the specific term for the minimum pressure required to produce liquefaction of a substance at the critical temperature?","label":"TOSSUP_TEXT"},
+  {"text":"CRITICAL PRESSURE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"3) CHEMISTRY Short Answer Name the molecule with formula CH3COOCH2CH2CH3","label":"BONUS_TEXT"},
+  {"text":"PROPYL ETHANOATE (ACCEPT: PROPYL ACETATE)","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"4) MATH Multiple Choice The variables x and y vary directly. Which equation could represent the relationship? W) (1/5)x = 1/y X) x/y = 1/5 Y) xy = 1/5 Z) xy = 5","label":"TOSSUP_TEXT"},
+  {"text":"X) x/y = 1/5","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"4) MATH Short Answer Open box from 8 by 6 inches: volume expression in x","label":"BONUS_TEXT"},
+  {"text":"x(8-2x)(6-2x)","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 3","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"5) PHYSICS Multiple Choice Rock thrown upward and another downward same speed: which is true? W) Upwards reaches bottom with higher velocity X) Downwards higher velocity Y) Both same velocity same time Z) Same velocity different times","label":"TOSSUP_TEXT"},
+  {"text":"Z) BOTH ROCKS REACH THE BOTTOM OF THE CLIFF WITH THE SAME VELOCITY BUT AT DIFFERENT TIMES","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"5) PHYSICS Short Answer If centripetal force doubled, ratio of final to initial speed?","label":"BONUS_TEXT"},
+  {"text":"1.4","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"6) EARTH AND SPACE Multiple Choice Which mineral property is most reliable? W) Color X) Density Y) Cleavage Z) Luster","label":"TOSSUP_TEXT"},
+  {"text":"Y) CLEAVAGE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"6) EARTH AND SPACE Short Answer In what wavelengths do greenhouse gases absorb and reradiate?","label":"BONUS_TEXT"},
+  {"text":"INFRARED (IR)","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 4","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"7) BIOLOGY Multiple Choice Which is true of enzymes? W) Increase activation energy X) Have active sites Y) Made of chitin Z) Act on variety","label":"TOSSUP_TEXT"},
+  {"text":"X) THEY HAVE ACTIVE SITES THAT BIND TO SPECIFIC SUBSTRATE MOLECULES","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"7) BIOLOGY Multiple Choice Branch of science for study of lakes and ponds? W) Limnology X) Hydrology Y) Ichthyology Z) Ecology","label":"BONUS_TEXT"},
+  {"text":"W) LIMNOLOGY","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"8) ENERGY Multiple Choice Which is NOT a potential source of biogas? W) Landfills X) Sewage treatment Y) Automobile engine Z) Animal waste","label":"TOSSUP_TEXT"},
+  {"text":"Y) AUTOMOBILE ENGINE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"8) ENERGY Multiple Choice Presence of which trait required for creation of oil traps? W) Anticline X) Syncline Y) Impermeable layer Z) Fault","label":"BONUS_TEXT"},
+  {"text":"Y) IMPERMEABLE LAYER","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 5","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"9) CHEMISTRY Multiple Choice Which catabolic pathway liberates CO2? W) Electron transport X) Glycolysis Y) Citric acid cycle Z) Cori cycle","label":"TOSSUP_TEXT"},
+  {"text":"Y) CITRIC ACID CYCLE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"9) CHEMISTRY Short Answer One mole substance molar mass 20 burned with 800 kJ released: enthalpy for 5 g sample?","label":"BONUS_TEXT"},
+  {"text":"-200","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"10) MATH Short Answer 63!/(62!*3!) to one decimal place","label":"TOSSUP_TEXT"},
+  {"text":"10.5","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"10) MATH Short Answer Quadrants containing solutions of 2x - y > 4","label":"BONUS_TEXT"},
+  {"text":"I, III, IV","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 6","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"11) PHYSICS Multiple Choice String 40 cm fundamental 384 Hz: to get octave higher tension factor?","label":"TOSSUP_TEXT"},
+  {"text":"Z) 4","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"11) PHYSICS Short Answer Meter stick with balloon: what happens when balloon string burns?","label":"BONUS_TEXT"},
+  {"text":"1","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"12) EARTH AND SPACE Multiple Choice Which is produced by gas-to-particle conversion? W) Primary particulate X) Secondary particulate Y) Tertiary aerosols Z) Primary aerosols","label":"TOSSUP_TEXT"},
+  {"text":"X) SECONDARY PARTICULATE MATTER","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"12) EARTH AND SPACE Short Answer Two most abundant minerals in continental crust?","label":"BONUS_TEXT"},
+  {"text":"QUARTZ AND FELDSPAR","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 7","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"13) BIOLOGY Short Answer Highest level of protein structure in collagen?","label":"TOSSUP_TEXT"},
+  {"text":"QUATERNARY","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"13) BIOLOGY Short Answer Estrogen and progesterone most directly regulated by which two hormones?","label":"BONUS_TEXT"},
+  {"text":"FSH AND LH","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"14) ENERGY Multiple Choice Which is typically increased for long-distance transmission? W) Voltage X) Amperage Y) Wattage Z) Current","label":"TOSSUP_TEXT"},
+  {"text":"W) VOLTAGE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"14) ENERGY Short Answer Type of semi-conducting junction essential to solar cell?","label":"BONUS_TEXT"},
+  {"text":"P-N JUNCTION","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 8","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"15) CHEMISTRY Multiple Choice Which is an aldehyde? W) C11H20 X) C5H11OH Y) C5H11CHO Z) C5H11NH2","label":"TOSSUP_TEXT"},
+  {"text":"Y) C5H11CHO","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"15) CHEMISTRY Short Answer Which of five metals reacts least with dilute HCl? (1) lead (2) chromium (3) manganese (4) nickel (5) gold","label":"BONUS_TEXT"},
+  {"text":"5 (GOLD)","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"16) MATH Multiple Choice If surface area of cube 96, diagonal of face length?","label":"TOSSUP_TEXT"},
+  {"text":"X) 4√2","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"16) MATH Short Answer Largest possible real domain of y = sqrt(x-1)/sqrt(x^2-1)?","label":"BONUS_TEXT"},
+  {"text":"x > 1","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 9","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"17) PHYSICS Multiple Choice Two inductance coils in parallel: equivalent inductance?","label":"TOSSUP_TEXT"},
+  {"text":"W) 0.5L","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"17) PHYSICS Multiple Choice Two balls dropped one second apart: distance after 3 sec?","label":"BONUS_TEXT"},
+  {"text":"X) 25","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"18) EARTH AND SPACE Multiple Choice Theory describing random movement of small particles?","label":"TOSSUP_TEXT"},
+  {"text":"Y) BROWNIAN MOTION","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"18) EARTH AND SPACE Short Answer Igneous rocks classification based on what compound?","label":"BONUS_TEXT"},
+  {"text":"SILICA","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 10","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"19) BIOLOGY Short Answer Term for shedding outer layer of skin?","label":"TOSSUP_TEXT"},
+  {"text":"ECDYSIS (MOLTING)","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"19) BIOLOGY Short Answer NAD stands for?","label":"BONUS_TEXT"},
+  {"text":"NICOTINAMIDE ADENINE DINUCLEOTIDE","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"20) ENERGY Short Answer Cadmium and boron absorb which particle in reactor?","label":"TOSSUP_TEXT"},
+  {"text":"NEUTRON","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"20) ENERGY Multiple Choice Most abundant nuclear fuel in Earth's crust? W) Uranium X) Plutonium Y) Thorium Z) Americium","label":"BONUS_TEXT"},
+  {"text":"Y) THORIUM","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 11","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"21) CHEMISTRY Multiple Choice When H reacts with 2-butanone, primary product?","label":"TOSSUP_TEXT"},
+  {"text":"Z) A SECONDARY ALCOHOL","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"21) CHEMISTRY Short Answer Arrange 1) CO, 2) 1/2 CaCO3, 3) CO2 in order of increasing oxygen atoms","label":"BONUS_TEXT"},
+  {"text":"1, 3, 2","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 12","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"22) MATH Short Answer Probability both dice even?","label":"TOSSUP_TEXT"},
+  {"text":"1/4","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"22) MATH Short Answer Mary average speed for trip?","label":"BONUS_TEXT"},
+  {"text":"52","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 13","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"23) PHYSICS Multiple Choice Which color diffracted through largest angle? W) Red X) Yellow Y) Blue Z) Green","label":"TOSSUP_TEXT"},
+  {"text":"W) RED","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"23) PHYSICS Multiple Choice Magnetic field at center of square conducting loop proportional to?","label":"BONUS_TEXT"},
+  {"text":"X) INVERSELY PROPORTIONAL TO L","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"24) EARTH AND SPACE Multiple Choice Which clockwise current brings warm Caribbean waters into Gulf of Mexico? W) Caribbean system X) Loop Y) North Equatorial Z) Florida","label":"TOSSUP_TEXT"},
+  {"text":"X) LOOP","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"24) EARTH AND SPACE Multiple Choice Which does NOT describe asthenosphere? W) Region of lower mantle X) Viscous Y) Mechanically weak Z) Involved in plate tectonics","label":"BONUS_TEXT"},
+  {"text":"W) REGION OF THE LOWER MANTLE","label":"BONUS_ANSWER"},
+
+  {"text":"Round 2 Page 14","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"25) BIOLOGY Short Answer Who discovered antibiotic nature of penicillin in 1928?","label":"TOSSUP_TEXT"},
+  {"text":"SIR ALEXANDER FLEMING","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"25) BIOLOGY Short Answer Which are involved in plant primary growth: 1) axillary bud meristem 2) cork cambium 3) apical meristem 4) vascular cambium","label":"BONUS_TEXT"},
+  {"text":"1, 3","label":"BONUS_ANSWER"}
+]

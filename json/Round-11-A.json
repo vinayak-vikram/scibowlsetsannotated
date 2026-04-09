@@ -1,0 +1,210 @@
+[
+  {"text":"High School Round 11A Page 1","label":"META"},
+  {"text":"ROUND 11A","label":"ROUND"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"1) BIOLOGY Multiple Choice If a person has consumed too much alcohol and is showing signs of ataxia, what portion of the brain is being inhibited? W) Left hemisphere of the cerebrum X) Tectum Y) Thalamus Z) Cerebellum","label":"TOSSUP_TEXT"},
+  {"text":"Z) CEREBELLUM","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"1) BIOLOGY Multiple Choice Which of the following drugs is mismatched to its action on neurotransmission? W) Benzodiazepines: Increases inhibitory neurotransmission X) Cocaine: inhibits release of dopamine and norepinephrine Y) LSD: Binds to serotonin receptors Z) Nicotine: decreases brain dopamine levels","label":"BONUS_TEXT"},
+  {"text":"Z) NICOTINE DECREASES BRAIN DOPAMINE LEVELS","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"2) CHEMISTRY Multiple Choice Which of the following molecules exhibits intermolecular attractions commonly referred to as hydrogen bonding? W) H2 X) HBr Y) HCN Z) HCOOH","label":"TOSSUP_TEXT"},
+  {"text":"Z) HCOOH","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"2) CHEMISTRY Multiple Choice The Heisenberg Uncertainty Principle implies that it is impossible to simultaneously obtain exact measurements for what two properties of a particle? W) Mass & velocity X) Charge & spin Y) Energy & wavelength Z) Position & momentum","label":"BONUS_TEXT"},
+  {"text":"Z) POSITION & MOMENTUM","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 2","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"3) MATH Multiple Choice Which of the following functions has the greatest number of discontinuities? W) (3x+5)/(x-4) X) (1/(x-1))+x Y) 1/x^2 Z) 1/(x^2-1)","label":"TOSSUP_TEXT"},
+  {"text":"Z)","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"3) MATH Short Answer Compute the probability of getting a 'blackjack' (two cards totaling 21 points)...","label":"BONUS_TEXT"},
+  {"text":"32/663","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"4) PHYSICS Multiple Choice The electric field of a given charge is measured to be 1 N/C at 10 cm away. If we double the charge, what is the field? W)0.1 X)2 Y)10 Z)20","label":"TOSSUP_TEXT"},
+  {"text":"X) 2","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"4) PHYSICS Short Answer A uniform magnetic field applied perpendicularly to velocity: what shape is the path?","label":"BONUS_TEXT"},
+  {"text":"CIRCLE","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 3","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"5) EARTH AND SPACE Multiple Choice Which volcanic feature is most closely associated with a high VEI rating? W) Pahoehoe X) High temperature flows Y) Flood basalts Z) Widespread ash fallout","label":"TOSSUP_TEXT"},
+  {"text":"Z) WIDESPREAD ASH FALLOUT","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"5) EARTH AND SPACE Short Answer What is the currently most accepted hypothesis for the observed acceleration of the expansion of the universe?","label":"BONUS_TEXT"},
+  {"text":"DARK ENERGY","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"6) CHEMISTRY Short Answer Identify which of the following are capable of hydrogen bonding with themselves: 1) hydrogen bromide; 2) hydrogen cyanide; 3) butanol","label":"TOSSUP_TEXT"},
+  {"text":"3 (BUTANOL)","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"6) CHEMISTRY Short Answer For a reaction ∆H=+10 kJ/mol and ∆S=+40 J/mol·K, at what T does spontaneity change?","label":"BONUS_TEXT"},
+  {"text":"250 K","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 4","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"7) BIOLOGY Multiple Choice What are the most important sensory receptors for monitoring blood pressure? W) Statocysts X) Baroreceptors Y) Nocireceptors Z) Chemoreceptors","label":"TOSSUP_TEXT"},
+  {"text":"X) BARORECEPTORS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"7) BIOLOGY Short Answer Early in fish evolution, the group including coelacanth and lungfish is?","label":"BONUS_TEXT"},
+  {"text":"SARCOPTERYGII (ACCEPT: LOBE FINNED FISH)","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"8) ENERGY Multiple Choice How much energy in tons of coal equivalent from deuterium in 50 cups of seawater in D-T fusion? W)2 X)200 Y)2000 Z)2,000,000","label":"TOSSUP_TEXT"},
+  {"text":"W) 2","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"8) ENERGY Short Answer Fluorescence vs longer-timescale triplet→singlet emission is called?","label":"BONUS_TEXT"},
+  {"text":"PHOSPHORESCENCE","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 5","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"9) EARTH AND SPACE Short Answer The Milky Way and Andromeda are primary constituents of what structure?","label":"TOSSUP_TEXT"},
+  {"text":"THE LOCAL GROUP","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"9) EARTH AND SPACE Multiple Choice Which statement about the moon is NOT correct? W) Moonquakes due to tidal stresses and impacts X) The moon formed during the late heavy bombardment Y) Lunar basalts contain fewer volatiles Z) The moon has no global magnetic field","label":"BONUS_TEXT"},
+  {"text":"X) THE MOON FORMED DURING THE LATE HEAVY BOMBARDMENT","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"10) MATH Short Answer Polar form question (45°), answer: 45°","label":"TOSSUP_TEXT"},
+  {"text":"45°","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"10) MATH Short Answer Sum of faces of the Platonic solids?","label":"BONUS_TEXT"},
+  {"text":"50","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 6","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"11) BIOLOGY Multiple Choice Which complex in oxidative phosphorylation moves protons into rather than out of the mitochondrial matrix? W) Cytochrome oxidase X) Cytochrome b-c1 Y) ATP synthase Z) NAD dehydrogenase","label":"TOSSUP_TEXT"},
+  {"text":"Y) ATP SYNTHASE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"11) BIOLOGY Multiple Choice Which eye adaptation allows raptors to maintain high visual sensitivity when diving? W) Tapetum lucidum X) Retina with two foveas Y) Change cis/trans retinal Z) Monocular vision","label":"BONUS_TEXT"},
+  {"text":"X) RETINA WITH TWO FOVEAS","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"12) CHEMISTRY Multiple Choice For trigonal bipyramidal ML5, which is NOT true? W) 3-fold rotation axis X) at least two mirror planes Y) inversion center Z) at least one improper rotation","label":"TOSSUP_TEXT"},
+  {"text":"Y) IT HAS AN INVERSION CENTER","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"12) CHEMISTRY Short Answer Theoretical yield of ammonia when 4 moles N2 react with 9 moles H2?","label":"BONUS_TEXT"},
+  {"text":"6","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 7","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"13) PHYSICS Short Answer Name for resistive force related to Reynolds number acting in direction of flow?","label":"TOSSUP_TEXT"},
+  {"text":"DRAG FORCE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"13) PHYSICS Multiple Choice Period of pendulum with g' = g/4? W)0.25 X)1 Y)2 Z)4","label":"BONUS_TEXT"},
+  {"text":"Y) 2","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"14) EARTH AND SPACE Multiple Choice Bright outbursts in flare stars due to? W) Rayleigh-Taylor instabilities X) Magnetic field reconnections Y) Unstable nuclear reactions Z) Convective overshoots","label":"TOSSUP_TEXT"},
+  {"text":"X) MAGNETIC FIELD RECONNECTIONS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"14) EARTH AND SPACE Short Answer Term for a large planet found very close to its host star?","label":"BONUS_TEXT"},
+  {"text":"HOT JUPITER","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 8","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"15) BIOLOGY Multiple Choice Within forebrain, which structure does NOT belong to telencephalon? W) Basal nuclei X) Hippocampus Y) Hypothalamus Z) Cerebral cortex","label":"TOSSUP_TEXT"},
+  {"text":"Y) HYPOTHALAMUS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"15) BIOLOGY Multiple Choice Which echinoderms have respiratory structures like lungs? W) Sea star & sea urchin X) Sea urchin & brittle star Y) Sea star & brittle star Z) Sea cucumber & brittle star","label":"BONUS_TEXT"},
+  {"text":"Z) SEA CUCUMBER AND BRITTLE STAR","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"16) MATH Short Answer If you take 20s/30s per problem, how many solved in 6 minutes?","label":"TOSSUP_TEXT"},
+  {"text":"30","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"16) MATH Short Answer Two integers 1–10 with replacement: probability both prime and product odd?","label":"BONUS_TEXT"},
+  {"text":"9/100","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 9","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"17) ENERGY Multiple Choice Energy consumption per capita change? W)-0.12 X)-0.5 Y)+0.5 Z)+0.12","label":"TOSSUP_TEXT"},
+  {"text":"X) -0.5","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"17) ENERGY Short Answer Crystalline solid of methane in cage of water molecules?","label":"BONUS_TEXT"},
+  {"text":"METHANE HYDRATE (ACCEPT: METHANE CLATHRATE)","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"18) CHEMISTRY Multiple Choice London dispersion forces increase with which property? W) Dipole moment X) Polarizability Y) Bond angle Z) Ionization energy","label":"TOSSUP_TEXT"},
+  {"text":"X) POLARIZABILITY","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"18) CHEMISTRY Short Answer Dipole moment calculation question, answer: 6.0x10^-30 C·m","label":"BONUS_TEXT"},
+  {"text":"6.0x10^-30","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 10","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"19) BIOLOGY Multiple Choice Which is NOT a requirement for dinoflagellate bioluminescence? W) Luciferyl adenylate X) Oxygen Y) Inorganic pyrophosphate Z) Carbon dioxide","label":"TOSSUP_TEXT"},
+  {"text":"Z) CARBON DIOXIDE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"19) BIOLOGY Multiple Choice All of the following distinguish actin filaments from MTs and IFs except? W) Promotion of muscle contraction X) Ability to create amoeboid movement Y) Spiral structure Z) Intracellular movement of cargo","label":"BONUS_TEXT"},
+  {"text":"Z) INTRACELLULAR MOVEMENT OF CARGO","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"20) PHYSICS Multiple Choice Which is consequence of exclusion principle? W) quantized angular momentum X) stationary states emit no radiation Y) No two electrons identical quantum numbers Z) only jumps emit photon","label":"TOSSUP_TEXT"},
+  {"text":"Y) NO TWO ELECTRONS IN A SINGLE ATOM CAN HAVE AN IDENTICAL SET OF QUANTUM NUMBERS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"20) PHYSICS Multiple Choice Free-fall acceleration at altitude 2Rearth above surface approx? W)1 X)2.5 Y)4.9 Z)9.8","label":"BONUS_TEXT"},
+  {"text":"W) 1","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 11","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"21) ENERGY Short Answer Device used in algae fuel production?","label":"TOSSUP_TEXT"},
+  {"text":"BIOREACTOR (ACCEPT: PHOTOBIOREACTOR, ALGAE BIOREACTOR)","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"21) ENERGY Multiple Choice Which is NOT true regarding catalysis? W) Biological catalysts are enzymes X) Catalysts lower activation energy Y) Catalyzed reaction always has same transition state Z) Catalysts have no effect on equilibrium constant","label":"BONUS_TEXT"},
+  {"text":"Y) A CATALYZED REACTION ALWAYS HAS THE SAME TRANSITION STATE AS THE UNCATALYZED REACTION","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"22) MATH Short Answer Two-digit square with largest digit-sum?","label":"TOSSUP_TEXT"},
+  {"text":"49","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"22) MATH Short Answer Limit question (answer in source)","label":"BONUS_TEXT"},
+  {"text":"(see original)","label":"BONUS_ANSWER"},
+
+  {"text":"High School Round 11A Page 12","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"23) CHEMISTRY Short Answer Reaction where ln[reactant] vs time is linear: order?","label":"TOSSUP_TEXT"},
+  {"text":"FIRST","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"23) CHEMISTRY Multiple Choice For diatomic, largest dipole moment properties? W) Short length small Δχ X) Long length large Δχ Y) Long length small Δχ Z) Short length large Δχ","label":"BONUS_TEXT"},
+  {"text":"X) LONG BOND LENGTH, LARGE DIFFERENCE IN ELECTRONEGATIVITY","label":"BONUS_ANSWER"}
+]

@@ -1,0 +1,147 @@
+[
+  {"text":"High School Set 6","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"1) Chemistry Multiple Choice Which functional group is created by adding H2 to an alkyne with Lindlar's catalyst? W) Alkane X) Cis-alkene Y) Trans-alkene Z) Alkyl halide","label":"TOSSUP_TEXT"},
+  {"text":"X) CIS-ALKENE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"1) Chemistry Short Answer Identify which of 1)1s 2)2s 3)2p orbitals can form sigma bonds","label":"BONUS_TEXT"},
+  {"text":"ALL","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"2) Earth and Space Multiple Choice 300-mb chart lines correspond to equal which property? W) Altitude X) Air pressure Y) Temperature Z) Humidity","label":"TOSSUP_TEXT"},
+  {"text":"W) ALTITUDE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"2) Earth and Space Short Answer Order regions of unconfined aquifer: 1) zone of saturation; 2) zone of aeration; 3) capillary fringe","label":"BONUS_TEXT"},
+  {"text":"2, 3, 1","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"3) Energy Multiple Choice XPG repairs DNA damage: XPG likely bound to which motif? W) CG repeats X) Double strand breaks Y) Adjacent pyrimidines Z) Transcription start sites","label":"TOSSUP_TEXT"},
+  {"text":"Y) ADJACENT PYRIMIDINES","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"3) Energy Multiple Choice Which element primarily originates from supernova nucleosynthesis? W) Arsenic X) Promethium Y) Hydrogen Z) Beryllium","label":"BONUS_TEXT"},
+  {"text":"W) ARSENIC","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"4) Math Short Answer LCM of 80 and k is 5k, gcd of 80 and k?","label":"TOSSUP_TEXT"},
+  {"text":"16","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"4) Math Short Answer Parametric line x=3t+5 y=-2t-7 slope and y-intercept?","label":"BONUS_TEXT"},
+  {"text":"SLOPE=-2/3, y-INTERCEPT=-11/3","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"5) Physics Multiple Choice Which axes for slope equal applied force? W) Mass & acceleration X) 1/mass & acceleration Y) Mass & 1/accel Z) 1/mass & 1/accel","label":"TOSSUP_TEXT"},
+  {"text":"X) ONE OVER MASS AND ACCELERATION","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"5) Physics Short Answer Which statements true as skydiver approaches terminal velocity: 1) speed increasing 2) acceleration magnitude increasing 3) gravitational force decreasing","label":"BONUS_TEXT"},
+  {"text":"1","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"6) Biology Short Answer Juxtamedullary and cortical nephrons differ most in length of what?","label":"TOSSUP_TEXT"},
+  {"text":"LOOP OF HENLE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"6) Biology Short Answer Which statements true of bacterial chromosomes: 1) circular 2) one per cell 3) possess telomeres","label":"BONUS_TEXT"},
+  {"text":"1","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"7) Chemistry Short Answer IUPAC name of product from acetic acid + LiAlH4?","label":"TOSSUP_TEXT"},
+  {"text":"ETHANOL","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"7) Chemistry Short Answer Butanone synthesis from which molecule with K2Cr2O7 + acid?","label":"BONUS_TEXT"},
+  {"text":"2-BUTANOL","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"8) Earth and Space Multiple Choice Universe became transparent to light near which temperature? W) 300,000 X) 30,000 Y) 3,000 Z) 300","label":"TOSSUP_TEXT"},
+  {"text":"Y) 3,000","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"8) Earth and Space Short Answer Which statements true of Callisto: 1) largest moon of Saturn 2) plate tectonics 3) volcanism","label":"BONUS_TEXT"},
+  {"text":"NONE","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"9) Energy Short Answer What seismic body waves cannot cross the core-mantle boundary?","label":"TOSSUP_TEXT"},
+  {"text":"S-WAVES","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"9) Energy Short Answer Prosthetic group for phage ferredoxin?","label":"BONUS_TEXT"},
+  {"text":"IRON-SULFUR CLUSTER","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"10) Math Short Answer Find a for which vectors 36i+20j and ai+27j orthogonal","label":"TOSSUP_TEXT"},
+  {"text":"-15","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"10) Math Short Answer Units digit of 7^33 * 8^55?","label":"BONUS_TEXT"},
+  {"text":"4","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"11) Physics Multiple Choice How electric potential due to point charge scales with distance? W) Linearly X) Quadratically Y) With the inverse Z) With the inverse squared","label":"TOSSUP_TEXT"},
+  {"text":"Y) WITH THE INVERSE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"11) Physics Short Answer Which properties of EM wave can change when passing medium: 1) Period 2) Wavelength 3) Speed","label":"BONUS_TEXT"},
+  {"text":"2, 3","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"12) Biology Short Answer Enzyme used to complete insertion of gene fragments into plasmids?","label":"TOSSUP_TEXT"},
+  {"text":"DNA LIGASE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"12) Biology Short Answer Number of entries in Punnett square for trihybrid F2?","label":"BONUS_TEXT"},
+  {"text":"64","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"13) Chemistry Multiple Choice m/z measured in which technique? W) Mass spec X) IR Y) NMR Z) UV-vis","label":"TOSSUP_TEXT"},
+  {"text":"W) MASS SPECTROMETRY","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"13) Chemistry Short Answer Stationary phase in TLC?","label":"BONUS_TEXT"},
+  {"text":"SILICA","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"14) Earth and Space Short Answer Prevailing wind blowing south along west coast: net water movement?","label":"TOSSUP_TEXT"},
+  {"text":"WEST","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"14) Earth and Space Short Answer Which quantities mafic exceed felsic: 1) Silica 2) Specific gravity 3) Melting temp","label":"BONUS_TEXT"},
+  {"text":"2, 3","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"15) Energy Short Answer C-shaped brain structure for learning and memory?","label":"TOSSUP_TEXT"},
+  {"text":"HIPPOCAMPUS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"15) Energy Short Answer Quantum-mechanical gas of bosons name?","label":"BONUS_TEXT"},
+  {"text":"BOSE GAS","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"16) Math Short Answer Product of -√7 - 2i and its conjugate?","label":"TOSSUP_TEXT"},
+  {"text":"11","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"16) Math Short Answer Integral value question answer: 38/9","label":"BONUS_TEXT"},
+  {"text":"38/9","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"17) Physics Multiple Choice If two pendulums same frequency but A has twice mass of B, length of B?","label":"TOSSUP_TEXT"},
+  {"text":"X) THE SAME AS PENDULUM A","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"17) Physics Short Answer Acceleration down ramp with µk=0.25 angle 30°?","label":"BONUS_TEXT"},
+  {"text":"3","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"18) Biology Short Answer Term for plants growing toward light?","label":"TOSSUP_TEXT"},
+  {"text":"PHOTOTROPISM","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"18) Biology Short Answer Which proteins found in ECM: 1) Elastin 2) Albumin 3) Fibronectin","label":"BONUS_TEXT"},
+  {"text":"1, 3","label":"BONUS_ANSWER"}
+]

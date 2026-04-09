@@ -1,0 +1,147 @@
+[
+  {"text":"High School Set 7","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"1) Earth and Space Multiple Choice Which layer of the Sun is thickest? W) Photosphere X) Convection zone Y) Core Z) Radiation zone","label":"TOSSUP_TEXT"},
+  {"text":"Z) RADIATION ZONE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"1) Earth and Space Short Answer Which planets can be at quadrature relative to Earth: 1) Mars 2) Jupiter 3) Saturn","label":"BONUS_TEXT"},
+  {"text":"ALL","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"2) Energy Multiple Choice Deuteration of benzene adding four deuterium atoms produces which molecule? W) Hexane X) Cyclohexane Y) Cyclohexene Z) Cyclohexa-1,3-diene","label":"TOSSUP_TEXT"},
+  {"text":"Y) CYCLOHEXENE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"2) Energy Multiple Choice Penicillin-binding proteins are what class of enzyme? W) Glycosidase X) Transpeptidase Y) Reductase Z) Peroxidase","label":"BONUS_TEXT"},
+  {"text":"X) TRANSPEPTIDASE","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"3) Math Short Answer Altitude to hypotenuse divides hypotenuse into 7 and 8: altitude length?","label":"TOSSUP_TEXT"},
+  {"text":"2√14","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"3) Math Short Answer How many zeros at right of permutations of 90 taken 40 at a time?","label":"BONUS_TEXT"},
+  {"text":"9","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"4) Physics Short Answer Particle position x(t)=1/t^2 instantaneous speed at t=2?","label":"TOSSUP_TEXT"},
+  {"text":"1/4","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"4) Physics Multiple Choice Water level 80 m crack speed approx? W)60 X)40 Y)30 Z)10","label":"BONUS_TEXT"},
+  {"text":"X) 40","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"5) Biology Short Answer Dikaryon unique to what kingdom?","label":"TOSSUP_TEXT"},
+  {"text":"FUNGI","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"5) Biology Multiple Choice Which virus least likely susceptible to remdesivir? W) Poliovirus X) Ebola virus Y) Influenza virus Z) HIV","label":"BONUS_TEXT"},
+  {"text":"Z) HUMAN IMMUNODEFICIENCY VIRUS","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"6) Chemistry Short Answer Half-reaction reductions potential: electrode potential?","label":"TOSSUP_TEXT"},
+  {"text":"0.1","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"6) Chemistry Short Answer Rank molecules by volatility: 1) Butanoic acid 2) Butanal 3) Butane","label":"BONUS_TEXT"},
+  {"text":"1, 2, 3","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"7) Earth and Space Short Answer For seismometer 100 miles from focus, chronological order: 1) Surface 2) P 3) S","label":"TOSSUP_TEXT"},
+  {"text":"2, 3, 1","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"7) Earth and Space Short Answer Changes that occur as result of El Niño: 1) Trade winds slacken 2) Western Pacific upwelling declines 3) Tropical Pacific cools","label":"BONUS_TEXT"},
+  {"text":"1, 2","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"8) Energy Short Answer Toxic group 12 metal used in quantum dots?","label":"TOSSUP_TEXT"},
+  {"text":"CADMIUM (Cd)","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"8) Energy Short Answer Material named after what crystal structure?","label":"BONUS_TEXT"},
+  {"text":"DIAMOND CUBIC","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"9) Math Short Answer 4th-largest integer factor of 1600 counting itself?","label":"TOSSUP_TEXT"},
+  {"text":"320","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"9) Math Short Answer y-coordinate of y-intercept of tangent to circle x^2+y^2=25 at (4,3)?","label":"BONUS_TEXT"},
+  {"text":"25/3","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"10) Physics Short Answer Escape velocity given orbital speed 10 km/s?","label":"TOSSUP_TEXT"},
+  {"text":"14","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"10) Physics Short Answer Max work from gas at 400 K with reservoir 100 K and 20 kJ thermal energy?","label":"BONUS_TEXT"},
+  {"text":"15","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"11) Biology Multiple Choice Which small molecule induces lac promoter? W) cAMP X) CAP Y) Allolactose Z) X-gal","label":"TOSSUP_TEXT"},
+  {"text":"Y) ALLOLACTOSE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"11) Biology Short Answer Nitrification final product ion?","label":"BONUS_TEXT"},
+  {"text":"NITRATE (NO3-)","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"12) Chemistry Short Answer IUPAC stem for four carbons?","label":"TOSSUP_TEXT"},
+  {"text":"BUT","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"12) Chemistry Short Answer Formula and charge of cobalt(III) ammonia octahedral compound?","label":"BONUS_TEXT"},
+  {"text":"[Co(NH3)6]3+","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"13) Earth and Space Multiple Choice Triton's retrograde orbit strongest evidence for?","label":"TOSSUP_TEXT"},
+  {"text":"Y) IT WAS A CAPTURED MOON","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"13) Earth and Space Multiple Choice Which extends farthest from Sun? W) Oort cloud X) Kuiper belt Y) Heliopause Z) Termination shock","label":"BONUS_TEXT"},
+  {"text":"W) OORT CLOUD","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"14) Energy Short Answer Scattering by raindrops much smaller than wavelength?","label":"TOSSUP_TEXT"},
+  {"text":"RAYLEIGH","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"14) Energy Short Answer Anthrax toxin secreted by which genus?","label":"BONUS_TEXT"},
+  {"text":"BACILLUS","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"15) Math Short Answer Smallest and largest possible positive rational roots for 6x^3-9x^2-10=0?","label":"TOSSUP_TEXT"},
+  {"text":"1/6; 10","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"15) Math Short Answer Number of distinguishable ways to place 7 indistinguishable marbles in 4 buckets?","label":"BONUS_TEXT"},
+  {"text":"120","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"16) Physics Multiple Choice Photon energy 2 eV range? W) Microwave X) Visible Y) UV Z) X-ray","label":"TOSSUP_TEXT"},
+  {"text":"X) VISIBLE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"16) Physics Short Answer Absolute intensity difference between 140 dB and 120 dB?","label":"BONUS_TEXT"},
+  {"text":"99","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"17) Biology Multiple Choice Which selection most conducive for sympatric speciation? W) Stabilizing X) Directional Y) Disruptive Z) Purifying","label":"TOSSUP_TEXT"},
+  {"text":"Y) DISRUPTIVE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"17) Biology Short Answer Chronological order of events during muscle contraction: 1) ACh released 2) APs propagate down T-tubules 3) Calcium binds troponin","label":"BONUS_TEXT"},
+  {"text":"2, 3, 1","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"18) Chemistry Multiple Choice Soluble in water and nonconductive might be which? W) Sucrose X) NaCl Y) SiO2 Z) Hexane","label":"TOSSUP_TEXT"},
+  {"text":"W) SUCROSE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"18) Chemistry Short Answer Chemical formula of ethanamine?","label":"BONUS_TEXT"},
+  {"text":"C2H7N","label":"BONUS_ANSWER"}
+]

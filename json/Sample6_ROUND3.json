@@ -1,0 +1,228 @@
+[
+  {"text":"Round 3 Page 1","label":"META"},
+  {"text":"ROUND 3","label":"ROUND"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"1) BIOLOGY Multiple Choice Female insects usually lay eggs near? W) Light X) Shade Y) Food Z) Water","label":"TOSSUP_TEXT"},
+  {"text":"Y) FOOD","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"1) BIOLOGY Multiple Choice Which biological molecule enables compartmentalization for respiration and photosynthesis? W) Amino acids X) Phospholipids Y) Glycogen Z) Cholesterol","label":"BONUS_TEXT"},
+  {"text":"X) PHOSPHOLIPIDS","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"2) PHYSICS Short Answer Who discovered buoyant force equal to weight of displaced fluid?","label":"TOSSUP_TEXT"},
+  {"text":"ARCHIMEDES","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"2) PHYSICS Multiple Choice Cyclist braking west: which is true? W) accel 0 X) accelerates east Y) accelerates west Z) accelerates both east and west","label":"BONUS_TEXT"},
+  {"text":"X) SHE ACCELERATES TO THE EAST","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 2","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"3) CHEMISTRY Multiple Choice How would oxygen's electrons fill 3p subshells? W) 1 pair, 2 unpaired X) 1 pair, 1 unpaired Y) 2 pairs Z) 3 pairs","label":"TOSSUP_TEXT"},
+  {"text":"W) 1 PAIR, 2 UNPAIRED","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"3) CHEMISTRY Short Answer What gaseous organic compound from ethanol heated in conc H2SO4?","label":"BONUS_TEXT"},
+  {"text":"ETHYLENE (ACCEPT: ETHENE)","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"4) EARTH AND SPACE Short Answer Other type of weathering besides mechanical?","label":"TOSSUP_TEXT"},
+  {"text":"CHEMICAL","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"4) EARTH AND SPACE Multiple Choice For June solstice, which is NOT true? W) Northern hemisphere longest day X) 24 hours sunlight in Arctic Y) Earth further from Sun at winter Z) Sun directly overhead at noon in Arctic","label":"BONUS_TEXT"},
+  {"text":"Z) THE SUN IS DIRECTLY OVERHEAD AT NOON IN THE ARCTIC CIRCLE","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 3","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"5) MATH Short Answer How many distinct diagonals does a pentagon have?","label":"TOSSUP_TEXT"},
+  {"text":"5","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"5) MATH Short Answer Factor p(x)=x^4+5x^3-2x^2-24x given zero at x=2","label":"BONUS_TEXT"},
+  {"text":"x(x-2)(x+3)(x+4)","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"6) ENERGY Multiple Choice Purpose of ground connection on outlet? W) zero potential reference X) remove heat Y) low resistance path for short circuits Z) small current source","label":"TOSSUP_TEXT"},
+  {"text":"Y) GIVE A LOW RESISTANCE PATH FOR SHORT CIRCUITS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"6) ENERGY Short Answer Best orientation for solar panel relative to line from Earth to Sun?","label":"BONUS_TEXT"},
+  {"text":"PERPENDICULAR","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 4","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"7) BIOLOGY Multiple Choice Which is NOT true about spike moss? W) No true roots X) Have well-developed vascular system Y) Widely distributed Z) Leaves are spore-bearing","label":"TOSSUP_TEXT"},
+  {"text":"X) THEY HAVE A WELL-DEVELOPED VASCULAR SYSTEM","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"7) BIOLOGY Short Answer Term for polymer binding wood cells?","label":"BONUS_TEXT"},
+  {"text":"LIGNIN","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"8) PHYSICS Multiple Choice Pascal's law governs forces in? W) Gases X) Solids Y) Incompressible fluids Z) Vacuum","label":"TOSSUP_TEXT"},
+  {"text":"Y) INCOMPRESSIBLE FLUIDS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"8) PHYSICS Short Answer Current in lightning stroke 0.5s transferring 100 C?","label":"BONUS_TEXT"},
+  {"text":"200","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 5","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"9) CHEMISTRY Short Answer Violet flame in flame test indicates which element?","label":"TOSSUP_TEXT"},
+  {"text":"POTASSIUM","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"9) CHEMISTRY Multiple Choice Which anhydrous compound has lowest melting point? W) AlCl3 X) CaCl2 Y) CuCl2 Z) PbCl3","label":"BONUS_TEXT"},
+  {"text":"W) ALUMINUM CHLORIDE","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"10) EARTH AND SPACE Short Answer Term for advance of desert conditions?","label":"TOSSUP_TEXT"},
+  {"text":"DESERTIFICATION","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"10) EARTH AND SPACE Multiple Choice ITCZ is NOT characterized by? W) Divergence X) Uplift Y) High cloud cover Z) Heavy precipitation","label":"BONUS_TEXT"},
+  {"text":"W) DIVERGENCE","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 6","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"11) MATH Short Answer Surface area of cube with volume 8?","label":"TOSSUP_TEXT"},
+  {"text":"24","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"11) MATH Short Answer Volume of right rectangular prism with dims (x+4),(x+1),(x+6)?","label":"BONUS_TEXT"},
+  {"text":"x^3 + 11x^2 + 34x + 24","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"12) ENERGY Multiple Choice Which uses stored electricity to get engine going? W) Catalytic converter X) Starter motor Y) Fuel rail Z) Alternator","label":"TOSSUP_TEXT"},
+  {"text":"X) STARTER MOTOR","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"12) ENERGY Short Answer Most coals of softer varieties are forms of which major rock type?","label":"BONUS_TEXT"},
+  {"text":"SEDIMENTARY","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 7","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"13) BIOLOGY Multiple Choice Which best describes blood? W) Specialized cell X) Type of cell Y) Connective tissue Z) Epithelial tissue","label":"TOSSUP_TEXT"},
+  {"text":"Y) CONNECTIVE TISSUE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"13) BIOLOGY Short Answer Inhibitors of what class regulate gene expression by altering chromatin accessibility?","label":"BONUS_TEXT"},
+  {"text":"HDAC (HISTONE DEACETYLASES)","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"14) EARTH AND SPACE Multiple Choice Why do we only see one side of the Moon? W) It does not rotate X) It has a dark side Y) It does not revolve Z) Same period for rotation and revolution","label":"TOSSUP_TEXT"},
+  {"text":"Z) IT HAS THE SAME PERIOD FOR ROTATION AND REVOLUTION","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"14) EARTH AND SPACE Multiple Choice Which element CANNOT be source of fuel in nuclear fusion? W) Iron X) Oxygen Y) Nitrogen Z) Carbon","label":"BONUS_TEXT"},
+  {"text":"W) IRON","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 8","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"15) BIOLOGY Multiple Choice Thermodynamic effect of enzyme? W) Energy level decreased X) Activation energy decreased Y) Activation energy increased Z) ΔG decreased","label":"TOSSUP_TEXT"},
+  {"text":"X) THE ACTIVATION ENERGY IS DECREASED","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"15) BIOLOGY Short Answer Recessive life-threatening disorder with thick secretions?","label":"BONUS_TEXT"},
+  {"text":"CYSTIC FIBROSIS","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"16) PHYSICS Short Answer Leaves of electroscope repel: what force balances electrical force?","label":"TOSSUP_TEXT"},
+  {"text":"GRAVITY","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"16) PHYSICS Short Answer Block specific gravity when floating and submerged volumes?","label":"BONUS_TEXT"},
+  {"text":"0.75","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 9","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"17) CHEMISTRY Multiple Choice Nitrogen atom in polypeptide backbone part of which functional group?","label":"TOSSUP_TEXT"},
+  {"text":"Z) AN AMIDE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"17) CHEMISTRY Multiple Choice Final product of purine metabolism?","label":"BONUS_TEXT"},
+  {"text":"X) URIC ACID","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"18) EARTH AND SPACE Short Answer Most common element in Earth's crust?","label":"TOSSUP_TEXT"},
+  {"text":"OXYGEN","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"18) EARTH AND SPACE Multiple Choice NOT a characteristic of ocean mixed layer? W) Relatively stratified X) In contact with atmosphere Y) Stirred by winds Z) Varied depth","label":"BONUS_TEXT"},
+  {"text":"W) RELATIVELY STRATIFIED IN THE VERTICAL","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 10","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"19) MATH Short Answer For what x is f(x)=x^2/(x^2-4x+4) not defined?","label":"TOSSUP_TEXT"},
+  {"text":"2","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"19) MATH Multiple Choice Which inequality has NO solutions?","label":"BONUS_TEXT"},
+  {"text":"Y) |x + 3| < -2","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"20) ENERGY Short Answer What energy barrier must reaction pass?","label":"TOSSUP_TEXT"},
+  {"text":"ACTIVATION ENERGY","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"20) ENERGY Short Answer Geoengineering iron seeding grows what organism?","label":"BONUS_TEXT"},
+  {"text":"PLANKTON (PHYTOPLANKTON)","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 11","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"21) BIOLOGY Multiple Choice Which is NOT a source of new genetic combinations? W) Mitosis X) Fertilization Y) Mutation Z) Meiosis","label":"TOSSUP_TEXT"},
+  {"text":"W) MITOSIS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"21) BIOLOGY Multiple Choice Which parts of B and T cells bind antigens?","label":"BONUS_TEXT"},
+  {"text":"W) VARIABLE REGION","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"22) PHYSICS Short Answer Force on charged particle moving through magnetic field perpendicular to travel?","label":"TOSSUP_TEXT"},
+  {"text":"LORENTZ (MAGNETIC FORCE)","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"22) PHYSICS Short Answer Mass in kg of 2 kg rock on planet with g=8.2 m/s^2?","label":"BONUS_TEXT"},
+  {"text":"2","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 12","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"23) CHEMISTRY Short Answer At -78°C dry ice sublimates: process name?","label":"TOSSUP_TEXT"},
+  {"text":"SUBLIMATION","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"23) CHEMISTRY Multiple Choice Formula for n-octadecanoic acid? W) C6H12O6 X) C18H36COOH Y) C17H35COOH Z) C16H32COOH","label":"BONUS_TEXT"},
+  {"text":"Y) C17H35COOH","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"24) EARTH AND SPACE Short Answer Compass direction magnetic north would point during reversed field?","label":"TOSSUP_TEXT"},
+  {"text":"SOUTH","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"24) EARTH AND SPACE Multiple Choice Why Neptune is blue? W) Sub-surface ocean X) Methane absorption Y) Blue-shift Z) Hydrocarbon haze","label":"BONUS_TEXT"},
+  {"text":"X) ABSORPTION OF LIGHT BY METHANE","label":"BONUS_ANSWER"},
+
+  {"text":"Round 3 Page 13","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"25) MATH Short Answer If ln(x^3)=6, what is ln(x^2)?","label":"TOSSUP_TEXT"},
+  {"text":"4","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"25) MATH Short Answer If f(x)=4x^3-4x^2+10, what is f(-2)?","label":"BONUS_TEXT"},
+  {"text":"-38","label":"BONUS_ANSWER"}
+]

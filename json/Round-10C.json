@@ -1,0 +1,228 @@
+[
+  {"text":"2007 Regional Science Bowl – Page 1","label":"META"},
+  {"text":"ROUND 10","label":"ROUND"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"1) BIOLOGY Multiple Choice Which of the following is closest to the maximum ATP molecules generated from the complete oxidation of 1 mole of glucose in a typical eukaryotic cell: W) 8 moles X) 16 moles Y) 24 moles Z) 38 moles","label":"TOSSUP_TEXT"},
+  {"text":"Z) 38 MOLES","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"1) BIOLOGY Short Answer Name all of the following 3 metabolic pathways where substrate-level phosphorylation occurs: citric acid cycle; glycolysis; electron transport system","label":"BONUS_TEXT"},
+  {"text":"CITRIC ACID CYCLE; GLYCOLYSIS","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"2) CHEMISTRY Multiple Choice Which of the following is considered a monoprotic acid: W) sulfuric acid X) hypochlorous acid Y) carbonic acid Z) sulfurous acid","label":"TOSSUP_TEXT"},
+  {"text":"X) HYPOCHLOROUS ACID","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"2) CHEMISTRY Short Answer Arrange the following 4 cations in order of increasing ionic radii: Mg2+; Rb+; Al3+; Na+","label":"BONUS_TEXT"},
+  {"text":"Al3+; Mg2+; Na+; Rb+","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 2","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"3) PHYSICS Multiple Choice Two-thirds of the charge is removed from a capacitor without changing its capacitance. The stored energy in the capacitor is now what multiple of the original: W) 1/3rd X) 1/9th Y) 3 Z) 9","label":"TOSSUP_TEXT"},
+  {"text":"X) 1/9th","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"3) PHYSICS Multiple Choice If a sound is emitted in dry air at 27ºC and takes 5 seconds to reach a person, how far away, in meters, from the sound source is the person: W) 1,655 X) 1,682 Y) 1,736 Z) 1,873","label":"BONUS_TEXT"},
+  {"text":"Y) 1,736","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"4) GENERAL SCIENCE Multiple Choice Which of the following is an intestinal worm which grows to about 25 centimeters in length and is transferred from person to person by way of contaminated soil: W) Ascaris X) guinea worm Y) shistosomiasis Z) lymphatic filariasis","label":"TOSSUP_TEXT"},
+  {"text":"W) ASCARIS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"4) GENERAL SCIENCE Multiple Choice Shock is often a life-threatening health condition that is typically and most directly caused by: W) low blood pH X) loss of brain function Y) extremely high cardiac output Z) low blood pressure","label":"BONUS_TEXT"},
+  {"text":"Z) LOW BLOOD PRESSURE","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 3","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"5) EARTH SCIENCE Multiple Choice Which of the following is LEAST accurate about the composition and structure of Earth’s atmosphere: W) at the uppermost boundary of the troposphere, air temperature begins to increase with increasing altitude X) the ozone layer absorbs UV radiation from the Sun Y) there are about one-third as many gas molecules in the air atop Mt. Everest compared to sea level Z) it is divided into four distinct layers based primarily on pressure gradients","label":"TOSSUP_TEXT"},
+  {"text":"Z) IT IS DIVIDED INTO FOUR DISTINCT LAYERS BASED PRIMARILY ON PRESSURE GRADIENTS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"5) EARTH SCIENCE Multiple Choice Strike-slip faults MOST commonly occur in which of the following: W) areas of continental collision X) transform fault margins Y) subduction zones Z) divergent plate boundaries","label":"BONUS_TEXT"},
+  {"text":"X) TRANSFORM FAULT MARGINS","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"6) MATH Short Answer Expand the following expression, giving your answer in standard binomial form: (6x + 3y)^2","label":"TOSSUP_TEXT"},
+  {"text":"36x^2 + 36xy + 9y^2","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"6) MATH Short Answer Consider a blue circle inscribed in a white square. If the radius of the circle is 10 centimeters, what is the area of all visible white portions of the square, to the nearest whole number in centimeters squared?","label":"BONUS_TEXT"},
+  {"text":"86","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 4","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"7) ASTRONOMY Multiple Choice All the stars of the Pleiades open cluster have: W) the same luminosities X) the same surface temperatures Y) very similar chemical compositions Z) the same apparent magnitudes","label":"TOSSUP_TEXT"},
+  {"text":"Y) VERY SIMILAR CHEMICAL COMPOSITIONS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"7) ASTRONOMY Multiple Choice When binary stars are made of a main sequence star and a compact white dwarf, as long as the white dwarf’s mass remains below 1.4 solar masses then the gas falling into the white dwarf is believed to often result in a: W) supernova X) nova Y) pulsar Z) quasar","label":"BONUS_TEXT"},
+  {"text":"X) NOVA","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"8) BIOLOGY Multiple Choice Which of the following is LEAST accurate regarding Avian migratory patterns: W) migration of birds from the tropics to the northern latitudes is typically endogenously controlled X) the migratory timing of many birds is being affected by global change Y) both large and very small birds migrate long distances Z) breeding in most birds is timed to be when fewest predators are present","label":"TOSSUP_TEXT"},
+  {"text":"Z) BREEDING IN MOST BIRDS IS TIMED TO BE WHEN FEWEST PREDATORS ARE PRESENT","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"8) BIOLOGY Multiple Choice Which of the following MOST likely occurs during speciation: W) increased mutation rates X) reproductive isolation Y) elimination of recessive alleles Z) increase in genetic load","label":"BONUS_TEXT"},
+  {"text":"X) REPRODUCTIVE ISOLATION","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 5","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"9) CHEMISTRY Multiple Choice The titration of a weak base, 0.100 molar NaCN, with a strong acid, 0.100 molar HCl, results in a solution at the equivalence point having a pH of: W) between 7 and 10 X) 7 Y) between 4 and 7 Z) between 1 and 3","label":"TOSSUP_TEXT"},
+  {"text":"Y) BETWEEN 4 AND 7","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"9) CHEMISTRY Short Answer In grams per liter, what is density of a gas whose molar mass is 134.4 grams per mole at standard temperature and pressure?","label":"BONUS_TEXT"},
+  {"text":"6","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"10) PHYSICS Multiple Choice Kirchhoff’s First Rule, often called the node or junction rule, is a restatement of which of the following fundamental principles: W) conservation of energy X) conservation of mass Y) conservation of charge Z) conservation of momentum","label":"TOSSUP_TEXT"},
+  {"text":"Y) CONSERVATION OF CHARGE","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"10) PHYSICS Short Answer Giving your answer in proper scientific notation to the first decimal place, how many joules of work are required to move a charge of +60 microcoulombs through a potential difference of 8 volts?","label":"BONUS_TEXT"},
+  {"text":"4.8 × 10^-4","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 6","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"11) MATH Short Answer Factor the following expression: 49x^2 – 169y^4","label":"TOSSUP_TEXT"},
+  {"text":"(7x + 13y^2)(7x – 13y^2)","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"11) MATH Short Answer If $1000 is placed in a savings account that pays 6% annual interest compounded semiannually, what is the total amount of money in the account at the end of 1 year, to the nearest dollar?","label":"BONUS_TEXT"},
+  {"text":"$1061.00","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"12) EARTH SCIENCE Multiple Choice Which of the following BEST describes the downward movement of typical alpine glaciers: W) they move by mass wasting and surface creep X) they move much like a brick sliding down a board Y) they flow fastest where the ice is thinnest Z) they slide along the base and flow like a fluid","label":"TOSSUP_TEXT"},
+  {"text":"Z) THEY SLIDE ALONG THE BASE AND FLOW LIKE A FLUID","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"12) EARTH SCIENCE Multiple Choice Which of the following is NOT true of seismic waves: W) P and S waves can travel through solids X) S waves cannot travel through Earth’s outer core Y) S-wave and P-waves cancel each other out in the shadow zone Z) seismographs typically record P waves before S waves","label":"BONUS_TEXT"},
+  {"text":"Y) S-WAVE AND P-WAVES CANCEL EACH OTHER OUT IN THE SHADOW ZONE","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 7","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"13) GENERAL SCIENCE Multiple Choice Which of the following statements is LEAST accurate: W) tetraethyl lead was once commonly added to gasoline to prevent engine knocking X) free radicals are not known to play a role in biological processes Y) catalase reacts with hydrogen peroxide to form water and oxygen Z) bottled mineral water typically contains higher total dissolved solids than tap water","label":"TOSSUP_TEXT"},
+  {"text":"X) FREE RADICALS ARE NOT KNOWN TO PLAY A ROLE IN BIOLOGICAL PROCESSES","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"13) GENERAL SCIENCE Multiple Choice Recent evidence suggests that comets arise not only from reservoirs of the Kuiper Belt and Oort Cloud but also from: W) the main asteroid belt X) a belt between Neptune and Pluto Y) a belt about 100 astronomical units beyond Pluto Z) at the heliopause","label":"BONUS_TEXT"},
+  {"text":"W) THE MAIN ASTEROID BELT","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"14) ASTRONOMY Multiple Choice In what area of the sky would the planet Venus be MOST likely to be seen a few hours after sunset from mid-northern latitudes: W) low in the western sky X) high in the southern sky Y) directly overhead Z) high in the northern sky","label":"TOSSUP_TEXT"},
+  {"text":"W) LOW IN THE WESTERN SKY","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"14) ASTRONOMY Short Answer How many degrees along the meridian is the nadir from the zenith?","label":"BONUS_TEXT"},
+  {"text":"180","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 8","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"15) BIOLOGY Multiple Choice Which of the following is NOT true about vaccinations: W) they were first developed against viral infections such as small pox X) they allow the immune system to respond more quickly and effectively on exposure to the disease causing agent Y) they will typically protect the person from infection within 24 hours after vaccination Z) they often require adjuvants which are nonspecific irritants for best results","label":"TOSSUP_TEXT"},
+  {"text":"Y) THEY WILL TYPICALLY PROTECT THE PERSON FROM INFECTION WITHIN 24 HOURS AFTER VACCINATION","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"15) BIOLOGY Short Answer Order the following 4 storage forms of energy from the most readily available to humans to the most difficult to mobilize: adipose stores; ATP; glycogen; glucose","label":"BONUS_TEXT"},
+  {"text":"ATP; GLUCOSE; GLYCOGEN; ADIPOSE STORES","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"16) CHEMISTRY Short Answer The hybridization of one ‘s’ orbital and two ‘p’ orbitals creates how many sp^2 hybrid orbitals?","label":"TOSSUP_TEXT"},
+  {"text":"3","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"16) CHEMISTRY Multiple Choice A molecule whose geometry of electron domains is tetrahedral and whose shape is bent or angular is: W) water X) sulfur dioxide Y) carbon dioxide Z) ammonium","label":"BONUS_TEXT"},
+  {"text":"W) WATER","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 9","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"17) PHYSICS Multiple Choice Thomas Young’s double slit experiments give the most direct and strongest support for which of the following: W) the wave nature of light X) the constancy of the speed of light Y) the existence of the photon Z) the particle nature of light","label":"TOSSUP_TEXT"},
+  {"text":"W) THE WAVE NATURE OF LIGHT","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"17) PHYSICS Short Answer Order the following 3 locations from the SLOWEST to the FASTEST for objects accelerating because of gravity: Mount Everest; North Pole; New York City","label":"BONUS_TEXT"},
+  {"text":"MOUNT EVEREST; NEW YORK CITY; NORTH POLE","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"18) MATH Multiple Choice Which of the following is NOT a geometric sequence: W) 30, 6, 5/6 … X) a^2, a^3b, a^4b^2… Y) 6, 13, 20… Z) 2/3, 4/3, 8/3 …","label":"TOSSUP_TEXT"},
+  {"text":"Y) 6, 13, 20…","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"18) MATH Short Answer Find the product of the following, giving your answer without negative exponents: (x^-2 + y)(x^2 – y^-2)","label":"BONUS_TEXT"},
+  {"text":"(terms can be given in any order)","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 10","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"19) EARTH SCIENCE Multiple Choice Which of the following is TRUE: W) deserts often occur on the windward sides of mountains X) taiga biomes are characterized by long severe winters and short summers Y) the most fertile soils are typically found in tropical forests Z) pedocal soil types are most likely be found in wet, humid environments","label":"TOSSUP_TEXT"},
+  {"text":"X) TAIGA BIOMES ARE CHARACTERIZED BY LONG SEVERE WINTERS AND SHORT SUMMERS","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"19) EARTH SCIENCE Multiple Choice In which of the following locations would you MOST easily find a treasure-trove of rhyolitic rock: W) Yellowstone National park X) Hawaii Y) evaporate deposits in Death Valley, California Z) the mid-Atlantic ridge","label":"BONUS_TEXT"},
+  {"text":"W) YELLOWSTONE NATIONAL PARK","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"20) GENERAL SCIENCE Multiple Choice As an alternative name, galvanic corrosion is MOST commonly called: W) pitting corrosion X) intergranular corrosion Y) stress corrosion Z) two-metal corrosion","label":"TOSSUP_TEXT"},
+  {"text":"Z) TWO-METAL CORROSION","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"20) GENERAL SCIENCE Multiple Choice Which of the following is the MOST conventional composite anode for solid oxide fuel cells that operate on pure hydrogen fuel: W) nickel oxide X) silicon oxide Y) iron oxide Z) zinc oxide","label":"BONUS_TEXT"},
+  {"text":"W) NICKEL OXIDE","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 11","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"21) ASTRONOMY Short Answer What astronomical constant has the value of 70 kilometers per second per megaparsec?","label":"TOSSUP_TEXT"},
+  {"text":"HUBBLE CONSTANT (ACCEPT: HUBBLE)","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"21) ASTRONOMY Short Answer Order the following 3 celestial objects from the one with the LEAST number of impact craters to the MOST: Earth’s Moon; Earth; Venus","label":"BONUS_TEXT"},
+  {"text":"EARTH; VENUS; EARTH’S MOON","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"22) BIOLOGY Short Answer What is the final electron acceptor for electrons passing down the electron transport system?","label":"TOSSUP_TEXT"},
+  {"text":"OXYGEN (ACCEPT: MOLECULAR OXYGEN or O2)","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"22) BIOLOGY Short Answer Name all of the following 4 molecules that are typically NOT found in plant cell plasma membranes: phospholipids; integral proteins; cholesterol; cellulose","label":"BONUS_TEXT"},
+  {"text":"CHOLESTEROL; CELLULOSE","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 12","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"23) CHEMISTRY Short Answer What are the bond angles around each carbon in a benzene ring?","label":"TOSSUP_TEXT"},
+  {"text":"120º","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"23) CHEMISTRY Short Answer How many carbons are in the following compound: 4-ethyl-4-methyl octane","label":"BONUS_TEXT"},
+  {"text":"11","label":"BONUS_ANSWER"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"24) PHYSICS Short Answer A boy gets a sled for his birthday in July. He exerts a 50-newton horizontal force as he pulls the 80-newton sled across the cement driveway at a constant speed. What is the coefficient of kinetic friction, to the second decimal place, between the driveway and the metal blades of the sled?","label":"TOSSUP_TEXT"},
+  {"text":"0.63","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"24) PHYSICS Short Answer It is now January and there is snow! The coefficient of friction is now 0.10. If a person weighing 500 newtons sits on the 80-newton sled, what horizontal force, in newtons, is needed to pull the sled across the snow at constant speed?","label":"BONUS_TEXT"},
+  {"text":"58","label":"BONUS_ANSWER"},
+
+  {"text":"2007 Regional Science Bowl – Page 13","label":"META"},
+
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"25) BIOLOGY Short Answer What base triplet is the start codon for methionine?","label":"TOSSUP_TEXT"},
+  {"text":"AUG","label":"TOSSUP_ANSWER"},
+
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"25) BIOLOGY Short Answer If you wanted to radioactively label protein and DNA to tell which one was present in a certain place, what 2 isotopes would you most likely use for the protein and the DNA, respectively?","label":"BONUS_TEXT"},
+  {"text":"PROTEIN = S-35; DNA = P-32 (ACCEPT: SULFUR-35 AND PHOSPHORUS-32)","label":"BONUS_ANSWER"}
+]

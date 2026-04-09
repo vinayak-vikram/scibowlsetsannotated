@@ -1,0 +1,10 @@
+[
+  {"text":"High School Round 4 A Page 1","label":"META"},
+  {"text":"ROUND 4","label":"ROUND"},
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"1) EARTH AND SPACE Multiple Choice Mammals first evolved during what geologic period?\nW) Permian\nX) Triassic\nY) Cretaceous\nZ) Paleocene","label":"TOSSUP_TEXT"},
+  {"text":"ANSWER: X) TRIASSIC","label":"TOSSUP_ANSWER"},
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"1) EARTH AND SPACE Short Answer What is the series used in igneous petrology that explains why certain types of minerals tend to be found together while others are almost never associated with one another?","label":"BONUS_TEXT"},
+  {"text":"ANSWER: BOWEN’S REACTION SERIES","label":"BONUS_ANSWER"}
+]

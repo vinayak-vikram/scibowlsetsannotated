@@ -1,0 +1,10 @@
+[
+  {"text":"High School Round 10A Page 1","label":"META"},
+  {"text":"ROUND 10A","label":"ROUND"},
+  {"text":"TOSS-UP","label":"TOSSUP_HEADER"},
+  {"text":"1) CHEMISTRY Short Answer Rank the following three acids from strongest to weakest: iodous acid, bromic acid, bromous acid.","label":"TOSSUP_TEXT"},
+  {"text":"ANSWER: BROMIC ACID, BROMOUS ACID, IODOUS ACID","label":"TOSSUP_ANSWER"},
+  {"text":"BONUS","label":"BONUS_HEADER"},
+  {"text":"1) CHEMISTRY Multiple Choice Which of the following compounds has the highest boiling point?\nW) N2\nX) H2S\nY) CO2\nZ) CH4","label":"BONUS_TEXT"},
+  {"text":"ANSWER: X) H2S","label":"BONUS_ANSWER"}
+]

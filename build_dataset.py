@@ -109,7 +109,7 @@ for file in os.listdir(TXT_DIR):
         target = structured_by_num[num]
 
         example = {
-            "input": "extract_science_bowl:\n" + chunk.strip(),
+            "input": chunk.strip(),
             "output": json.dumps(target)
         }
 

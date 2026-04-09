@@ -41,7 +41,8 @@ training_args = Seq2SeqTrainingArguments(
     logging_dir="./logs",
     disable_tqdm=False,
     report_to="none",
-    fp16=True  # m1 gpu supports mixed precision
+    fp16=False,
+    bf16=False
 )
 
 trainer = Seq2SeqTrainer(

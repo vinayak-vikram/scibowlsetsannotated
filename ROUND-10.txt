@@ -1,0 +1,563 @@
+
+
+High School Round 10 A Page 1 
+ 
+
+ROUND 10   
+ 
+TOSS-UP 
+ 
+1) CHEMISTRY Short Answer What is the most reduced symmetry operation symbol for a 
+molecule that has a rotation angle of 240°? 
+ 
+ANSWER: C32  
+  BONUS 
+ 
+1) CHEMISTRY Short Answer How many translational, rotational, and vibrational modes, 
+respectively, are there for the molecule beryllium fluoride? 
+ 
+ANSWER: TRANSLATIONAL = 3; ROTATIONAL = 2; VIBRATIONAL = 4 
+ 
+  TOSS-UP 
+ 
+2) MATH Short Answer Find the sum of the two solutions for the quadratic equation:  
+2x2 – 4x + 8 = 0. 
+ 
+ANSWER: 2 
+  BONUS 
+ 
+
+2) MATH Short Answer Find the following limit: lim𝑥→2
+𝑥5− 32
+
+𝑥4− 16
+ [the limit as x approaches 2 of 
+
+the fraction with numerator x to the fifth minus 32 and denominator x to the fourth minus 
+
+16]. 
+
+ 
+ANSWER: 5/2 (ACCEPT: 2 ½ OR 2.5) 
+ 
+ 
+   
+ High School Round 10 A Page 2 
+ 
+ TOSS-UP 
+ 
+3) EARTH AND SPACE Multiple Choice Which of the following is nearest the percentage of the 
+Earth’s surface that is covered by glaciers? 
+ 
+W) 1%  
+X) 5%  
+Y) 10%  
+Z) 20%  
+ 
+ANSWER: Y) 10%  
+  BONUS 
+ 
+3) EARTH AND SPACE Multiple Choice Which of the following organisms was NOT present in 
+the Jurassic?  
+ 
+W) Triceratops 
+X) Ichthyosaurs [IK-thee-uh-sawrs] 
+Y) Dinoflagellates [din-uh-FLAJ-uh-layts] 
+Z) Ginkgoes [GING-kohs] 
+ 
+ANSWER: W) TRICERATOPS 
+ 
+  TOSS-UP 
+ 
+4) PHYSICS Short Answer If it takes 60 pounds-force to loosen a lug nut with a 5 inch wrench, 
+how much force in pounds-force would it take if you used a 12 inch wrench instead? 
+ 
+ANSWER: 25    
+BONUS 
+ 
+4) PHYSICS Multiple Choice On a sunny clear day, the sky seems to be bluer directly overhead 
+than it does toward the horizon. Which of the following is the reason?  
+ 
+W) Light from the Sun undergoes more scattering with distance  
+X) The atmosphere has higher density at the zenith versus closer to the Earth’s surface  
+Y) There is more oxygen in the air closer to the Earth’s surface than high in the atmosphere 
+Z) The upper atmosphere is colder than the Earth’s surface  
+ 
+ANSWER: W) LIGHT FROM THE SUN UNDERGOES MORE SCATTERING WITH DISTANCE 
+ 
+ 
+   
+ High School Round 10 A Page 3 
+ 
+ TOSS-UP 
+ 
+5) ENERGY Multiple Choice By what process is gasoline separated from crude oil? 
+ 
+W) Distillation 
+X) Digestion 
+Y) Fracking 
+Z) Filtering 
+ 
+ANSWER: W) DISTILLATION 
+  BONUS 
+ 
+5) ENERGY Short Answer What property of water allows it to have surface tension, and what is 
+the intermolecular force responsible? 
+ 
+ANSWER: COHESION AND HYDROGEN BONDING 
+ 
+  TOSS-UP 
+ 
+6) BIOLOGY Short Answer What is the process by which bacterial genes can be transferred 
+from one bacterium to another via bacteriophages [bak-TEER-ee-uh-FAY-juhs]? 
+ 
+ANSWER: TRANSDUCTION   
+BONUS 
+ 
+6) BIOLOGY Short Answer In Labrador retrievers, coat color is determined by two sets of genes 
+on different loci [LOH-sy]. At one locus, the upper case B allele [uh-LEEL] codes for black coat 
+color, and the lower case b allele codes for brown coat pigment. At the second locus, the upper 
+case E allele codes for the presence of a transporter to carry pigment to the hair shaft and the 
+lower case e allele codes for the absence of the transporter. In the presence of transporter, the 
+dog is black or brown; in the absence of transporter, the dog is yellow. What is the genotype of a 
+yellow dog that is heterozygous for the brown allele? 
+ 
+ANSWER: Bbee (ACCEPT: bBee) 
+ 
+ 
+   
+ High School Round 10 A Page 4 
+ 
+ TOSS-UP 
+ 
+7) CHEMISTRY Multiple Choice Which of the following statements about visible energy 
+transitions in electronic spectroscopy is NOT true? 
+ 
+W) They are low energy transitions 
+X) They occur between d-orbitals of transition metals 
+Y) They occur between metal and ligand orbitals 
+Z) They occur between ligand orbitals 
+ 
+ANSWER: Z) THEY OCCUR BETWEEN LIGAND ORBITALS 
+  BONUS 
+ 
+7) CHEMISTRY Multiple Choice Propranolol [proh-PRAN-uh-lol] hydrochloride is a stable solid 
+that belongs to a class of molecules known as beta blockers, and is prescribed as a racemic 
+[ray-SEE-mik] mixture. Which of the following is NOT true with respect to propranolol 
+hydrochloride? 
+ 
+W) It will not rotate plane-polarized light 
+X) It is optically pure  
+Y) It is achiral [ay-KY-ruhl] 
+Z) It includes equal amounts of each enantiomer [i-NAN-tee-uh-mer] 
+ 
+ANSWER: X) IT IS OPTICALLY PURE 
+ 
+  TOSS-UP 
+ 
+8) MATH Short Answer Starting with point (4, 2) in the coordinate plane, reflect it across the x-
+axis, then rotate it 180
+o around the origin, and finally, translate it vertically up by 2 units. What 
+are the coordinates of the point’s final location? 
+ 
+ANSWER: (-4, 4) 
+  BONUS 
+ 
+8) MATH Short Answer If z1 = 4 + 3i and z2 = i3, find the product of z1, z2, and the conjugate of 
+z1.  
+ 
+ANSWER: -25 i 
+ 
+ 
+   
+ High School Round 10 A Page 5 
+ 
+ TOSS-UP 
+ 
+9) EARTH AND SPACE Multiple Choice The San Andreas Fault and collision of India with Asia 
+occurred in what geologic period?  
+ 
+W) Cambrian 
+X) Permian 
+Y) Cretaceous [kri-TAY-shuhs] 
+Z) Oligocene [OL-i-goh-seen] 
+ 
+ANSWER: Z) OLIGOCENE 
+  BONUS 
+ 
+9) EARTH AND SPACE Short Answer What is the name of the largest aquifer [AK-wuh-fer] in 
+the United States that underlies most of the Midwest? 
+ 
+ANSWER: OGALLALA AQUIFER 
+ 
+  TOSS-UP 
+ 
+10) PHYSICS Multiple Choice The messenger particles of weak interaction are which of the 
+following? 
+ 
+W) Z bosons only 
+X) W+ and W- bosons only 
+Y) Z, W
++, and W- bosons 
+Z) Virtual photons 
+ 
+ANSWER: Y) Z, W+, AND W- BOSONS 
+  BONUS 
+ 
+10) PHYSICS Multiple Choice A transformer has a primary coil with 10 loops and a secondary 
+coil with 100 loops. If the primary coil is supplied with a household voltage of 100 volts and 
+current of 10 amperes, what is the maximum voltage, in volts, across an open circuit produced 
+in the secondary circuit?  
+ 
+W) 10 
+X) 100 
+Y) 1000 
+Z) 10,000 
+ 
+ANSWER: Y) 1000  
+ 
+ 
+   
+ High School Round 10 A Page 6 
+ 
+ TOSS-UP 
+ 
+11) BIOLOGY Short Answer The following four terms would apply to what group of organisms: 
+primaries, axillars, coverts, scapulars?  
+ 
+ANSWER: BIRDS 
+  BONUS 
+ 
+11) BIOLOGY Multiple Choice When a gene is duplicated within an organism to generate a 
+second copy of that gene, what term in genomics would describe the relationship between the 
+genes? 
+ 
+W) Paralogous 
+X) Orthologous 
+Y) Syntologous 
+Z) Heterologous 
+ 
+ANSWER: W) PARALOGOUS 
+   
+TOSS-UP 
+ 
+12) CHEMISTRY Short Answer Providing your answer as a whole number, what is the overall 
+order of the reaction governed by the rate law R = k[NO2]2[Br2] [R equals k times the 
+concentration of N-O-2 squared times the concentration of bromine]?  
+ 
+ANSWER: 3 (ACCEPT: THIRD OR THIRD ORDER) 
+ 
+BONUS 
+ 
+12) CHEMISTRY Short Answer Hydrogen and chlorine are reacted in a 500 milliliter flask to 
+form hydrogen chloride. It takes 0.08 seconds for the amount of chlorine to change by -0.005 
+moles. Providing your answers as decimals, determine the rate of conversion, in moles per 
+second, and the rate of reaction, in molarity per second.  
+ 
+ANSWER: RATE OF CONVERSION = 0.0625; RATE OF REACTION = 0.125 
+ 
+ 
+   
+ High School Round 10 A Page 7 
+ 
+ TOSS-UP 
+ 
+13) PHYSICS Multiple Choice If object A and object B are in thermal equilibrium, and object B 
+and object C are in thermal equilibrium, then object A and object C are also in thermal 
+equilibrium. This situation is an example of what law of thermodynamics? 
+ 
+W) Zeroth  
+X) First 
+Y) Second 
+Z) Third 
+ 
+ANSWER: W) ZEROTH  
+  BONUS 
+ 
+13) PHYSICS Multiple Choice Which of the following is nearest escape velocity on the surface 
+of the Earth, in miles per hour? 
+ 
+W) 1000  
+X) 25,000  
+Y) 66,000  
+Z) 670 million  
+ 
+ANSWER: X) 25,000  
+ 
+  TOSS-UP 
+ 
+14) MATH Short Answer What is the area of the region bounded by the curve: y = sinx [y equals 
+sine of x] and the x-axis from x = 0 to x = π? 
+ 
+ANSWER: 2 
+  BONUS 
+ 
+14) MATH Short Answer What is the largest possible real domain for the function 
+ 𝑓(𝑥) = (4𝑥2)/√4 − 𝑥2 [f of x equals the fraction with numerator 4 x squared and 
+denominator the square root of the quantity 4 minus x squared]? 
+ 
+ANSWER: (-2, 2) (ACCEPT: -2 < x < 2) 
+ 
+ 
+ 
+   
+ High School Round 10 A Page 8 
+ 
+ TOSS-UP 
+ 
+15) EARTH AND SPACE Multiple Choice The Volcanic Explosivity Index rated the Toba eruption 
+as an 8, the highest rating. Which of the following environments was the most likely tectonic 
+setting for this eruption? 
+ 
+W) Hot spot 
+X) Subduction zone 
+Y) Triple junction 
+Z) Mid-ocean ridge 
+ 
+ANSWER: X) SUBDUCTION ZONE   
+BONUS 
+ 
+15) EARTH AND SPACE Multiple Choice Which of the following minerals is NOT a polymorph of 
+Al2SiO5? 
+ 
+W) Andalusite [an-dl-OO-syt] 
+X) Aragonite [uh-RAG-uh-nyt] 
+Y) Sillimanite [SIL-uh-muh-nyt] 
+Z) Kyanite [KAY-uh-nyt] 
+  
+ANSWER: X) ARAGONITE 
+ 
+  TOSS-UP 
+ 
+16) ENERGY Multiple Choice Which of the following processes is currently used commercially 
+to enrich uranium in the United States? 
+ 
+W) Gaseous diffusion 
+X) Gaseous centrifugation  
+Y) Metal plating 
+Z) Electrolysis 
+ 
+ANSWER: W) GASEOUS DIFFUSION   
+BONUS 
+ 
+16) ENERGY Multiple Choice Solvent-based techniques best capture carbon dioxide under 
+which of the following relative conditions? 
+ 
+W) High temperature, high pressure 
+X) High temperature, low pressure 
+Y) Low temperature, high pressure 
+Z) Low temperature, low pressure 
+ 
+ANSWER: Y) LOW TEMPERATURE, HIGH PRESSURE 
+ 
+   
+ High School Round 10 A Page 9 
+ 
+ TOSS-UP 
+ 
+17) PHYSICS Multiple Choice Fluid pressure is caused by which of the following? 
+ 
+W) Gravitational interactions among atoms and molecules of the fluid 
+X) Collisions of fast moving atoms and molecules of the fluid 
+Y) Strong nuclear force among nucleons 
+Z) Weak forces among particles 
+ 
+ANSWER: X) COLLISIONS OF FAST MOVING ATOMS AND MOLECULES OF THE FLUID 
+  BONUS 
+ 
+17) PHYSICS Short Answer A projectile is launched with a speed of 10 meters per second from 
+the top of a 30 meter tall cliff at an angle of 30° above the horizontal. Assuming that g is 10 
+meters per second squared, how many seconds after launch will it take this particle to strike the 
+ground at the bottom of the cliff?  
+ 
+ANSWER: 3 
+ 
+  TOSS-UP 
+ 
+18) BIOLOGY Short Answer In what taxonomic phylum [FY-luhm] can you find an 
+indeterminate species in the genus Marchantia [mar-CHANT-ee-uh]? 
+ 
+ANSWER: HEPATOPHYTA   
+BONUS 
+ 
+18) BIOLOGY Short Answer For a DNA template that reads 3’ [3 prime] TAC AAA ATC 5’ [5 
+prime], give the sequence of the RNA transcribed from it with appropriate polarity. 
+ 
+ANSWER: 5’ AUG UUU UAG 3’  
+ 
+ 
+   
+ High School Round 10 A Page 10 
+ 
+ TOSS-UP 
+ 
+19) CHEMISTRY Multiple Choice Which of the following gases would deviate most from ideal 
+gas behavior?  
+ 
+W) Helium  
+X) Hydrogen  
+Y) Oxygen 
+Z) Neon  
+ 
+ANSWER: Y) OXYGEN 
+  BONUS 
+ 
+19) CHEMISTRY Short Answer How many different structural isomers are there for heptane?  
+ 
+ANSWER: NINE  
+ 
+  TOSS-UP 
+ 
+
+20) MATH Multiple Choice What is  𝑑
+
+𝑑𝑥 ∫ 𝑡2𝑥
+4 𝑑𝑡 [the derivative with respect to x of the integral 
+
+from 4 to x of t squared dt]? 
+ 
+W) x2 
+
+X) (1/3)x3 
+Y) (64/3)x 
+Z) 16x2 
+ 
+ANSWER: W) x2 
+
+  BONUS 
+ 
+20) MATH Short Answer What are the vertical and horizontal asymptotes, respectively, of  
+f(x) = (x2 - √3)/(x2 – 2x - 15) [f of x equals the fraction with numerator x squared minus the 
+square root of 3 and denominator x squared minus 2x minus 15]? 
+ 
+ANSWER: VERTICAL: x = -3, x = 5; HORIZONTAL: y = 1 
+ 
+   
+ High School Round 10 A Page 11 
+ 
+ TOSS-UP 
+ 
+21) BIOLOGY Multiple Choice Which of the following anatomical adjectives is NOT correctly 
+described?  
+ 
+W) Celiac-abdominal 
+X) Anterior-front end 
+Y) Rostral-near the tail 
+Z) Pedal-relating to the foot  
+ 
+ANSWER: Y) ROSTRAL-NEAR THE TAIL   
+BONUS 
+ 
+21) BIOLOGY Short Answer During the early stages of the Human Genome Project, fragments 
+of human DNA were placed into vectors called yeast artificial chromosomes (YACs). What 
+replication enzyme would be needed in the test tube to connect the two DNA fragments 
+together, creating recombinant DNA? 
+ 
+ANSWER: LIGASE (ACCEPT: DNA LIGASE) 
+ 
+  TOSS-UP 
+ 
+22) EARTH AND SPACE Multiple Choice Which of the following desert landforms is NOT 
+formed through the process of abrasion? 
+ 
+W) Yardang 
+X) Wind bridge 
+Y) Desert pavement 
+Z) Inselberg 
+ 
+ANSWER: Y) DESERT PAVEMENT 
+  BONUS 
+ 
+22) EARTH AND SPACE Multiple Choice Which of the following types of terrace is carved into 
+bedrock? 
+ 
+W) Fill  
+X) Strath  
+Y) Alluvium [uh-LOO-vee-uhm] 
+Z) Accretion  
+ 
+ANSWER: X) STRATH 
+ 
+ 
+   
+ High School Round 10 A Page 12 
+ 
+ TOSS-UP 
+ 
+23) PHYSICS Multiple Choice A proton initially at rest is accelerated through a potential 
+difference of 1 megavolt. What is its final kinetic energy in electronvolts? 
+ 
+W) 103  
+X) 1.6 × 106  
+Y) 106 
+
+Z) 1.6 × 106  
+ 
+ANSWER: Y) 106 
+
+  BONUS 
+ 
+23) PHYSICS Short Answer A 2 kilogram ball experiences a force according to the relation 
+𝐹 = 6𝑡2, where F is the force in newtons and t is the time in seconds. Assuming that the ball 
+started from rest, how fast in meters per second is the ball moving after experiencing this force 
+for 5 seconds? 
+ 
+ANSWER: 125 
+   
+TOSS-UP 
+ 
+24) ENERGY Multiple Choice What is the major potential benefit of electric propulsion systems 
+for the NASA space program? 
+ 
+W) They are lighter than traditional fuels 
+X) They are less toxic than traditional fuels 
+Y) They contribute to an artificial gravity environment 
+Z) They require less research and development 
+ 
+ANSWER: W) THEY ARE LIGHTER THAN TRADITIONAL FUELS 
+  BONUS 
+ 
+24) ENERGY Multiple Choice Which of the following advantages is offered by mid- and deep-
+ocean sequestration that is not possible at shallower depths? 
+ 
+W) Faster mineralization of carbon dioxide 
+X) Easier injection of carbon dioxide 
+Y) Buoyant carbon dioxide hydrates 
+Z) Longer residence time 
+ 
+ANSWER: Z) LONGER RESIDENCE TIME 
+ 
+ 
+ 
+   
+ High School Round 10 A Page 13 
+ 
+ TOSS-UP 
+ 
+25) BIOLOGY Multiple Choice Which of the following pairs includes a toothed whale and a 
+baleen whale?  
+ 
+W) Bowhead whale and blue whale 
+X) Grey whale and beluga whale 
+Y) Sperm whale and narwhal 
+Z) Northern right whale and minke 
+ 
+ANSWER: X) GREY WHALE AND BELUGA WHALE 
+  BONUS 
+ 
+25) BIOLOGY Multiple Choice At a 4
+th of July picnic, Uncle Vernon was munching down on his 
+ear of yellow corn when he exclaimed, “Why do some of these corn kernels have purple spots? 
+Is the corn toxic?” You quickly explain that the corn is not toxic and that the spots were caused 
+by what?  
+ 
+W) Transcription start variation  
+X) Transposition of a jumping gene  
+Y) Random X-inactivation  
+Z) Genetic modifications  
+ 
+ANSWER: X) TRANSPOSITION OF A JUMPING GENE  
+ 
+ 
+ 
+ 

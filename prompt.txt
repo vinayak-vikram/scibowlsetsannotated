@@ -1,0 +1,30 @@
+I have plain-text Science Bowl packets with messy line breaks, pdf-to-text artifacts, and irregular spacing.
+I want to create a dataset for a sequence-labeling model with these labels:
+- TOSSUP_HEADER, TOSSUP_TEXT, TOSSUP_ANSWER
+- BONUS_HEADER, BONUS_TEXT, BONUS_ANSWER
+- ROUND, META
+
+I want you to:
+
+1. Read all .txt files in "./txts"
+2. For each file, intelligently merge broken lines so that:
+- Each TOSS-UP question is a single string (TOSSUP_TEXT) even if it wraps across multiple lines
+- Each BONUS question is a single string (BONUS_TEXT)
+- Answer lines remain associated with the correct question
+- Multiple-choice options are still treated as part of the TOSSUP_TEXT/BONUS_TEXT that they are part of
+3. Use the headers and patterns to detect context:
+- "TOSS-UP" -> TOSSUP_HEADER
+- "BONUS" -> BONUS_HEADER
+- Numbers followed by ")" -> question text (TOSSUP_TEXT or BONUS_TEXT depending on current header)
+- "ANSWER:" -> answer text (TOSSUP_ANSWER or BONUS_ANSWER depending on current header)
+- "ROUND X" -> ROUND
+- "2016 NSB® Regional High School Questions Page X" or things like that (use your own discretion) -> META
+4. Merge consecutive lines of text until a new header, answer, or option is detected
+5. Output a JSON array for each file, where each element is:
+{
+"text": "<merged text>",
+"label": "<appropriate label>"
+}
+6. Save JSON in "./json/<filename>.json"
+
+For this entire process, use your best judgement; you are an intelligent LLM that should understand what the task at hand is.
